@@ -1,8 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&duration=4500&pause=1000&color=000000&width=435&lines=%F0%9F%92%BB+Bienvenido+a+mi+espacio+personal+%F0%9F%A4%99;%F0%9F%92%BB+Welcome+to+my+personal+site+%F0%9F%A4%99)](https://git.io/typing-svg)
 
+<h3 align="center">Ingeniero Informático</h3>
+
+
+
 <p align="left">
-Hola 👋​​👋, mi nombre es Antonio y soy un estudiante de Ingeniería Informática en el último año de mi carrera. Apasionado por el mundo de la informática y en especial, el campo de la ciberseguridad y el aprendizaje computacional. Estoy ansioso por enfrentar nuevos desafíos, aprender y colaborar con profesionales del sector.
+Hola 👋​​👋, mi nombre es Antonio y soy un Ingenierío Informático recientemente graduado. Apasionado por el mundo de la informática y en especial, el campo de la ciberseguridad y el aprendizaje computacional. Estoy ansioso por enfrentar nuevos desafíos, aprender y colaborar con profesionales del sector.
 </p>
+
 
 <h3 align="left">🇪🇸Contacta conmigo - 🇬🇧Contact with me</h3>
 <p align="left">
