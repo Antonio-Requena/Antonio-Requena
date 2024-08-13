@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&duration=4500&pause=1000&color=000000&width=435&lines=%F0%9F%92%BB+Bienvenido+a+mi+espacio+personal+%F0%9F%A4%99;%F0%9F%92%BB+Welcome+to+my+personal+site+%F0%9F%A4%99)](https://git.io/typing-svg)
 
-<h3 align="center">Ingeniero Informático</h3>
-
+![Texto Alternativo](img/1710881040952.jfif)
 
 
 <p align="left">
